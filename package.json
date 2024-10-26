@@ -1,4 +1,5 @@
 {
+  "homepage": "https://japhni.github.io/salon-font-end",
   "name": "salon-font-end",
   "version": "0.1.0",
   "private": true,
@@ -28,6 +29,7 @@
     "chart.js": "^4.4.3",
     "date-fns": "^3.6.0",
     "formik": "^2.4.6",
+    "gh-pages": "^6.2.0",
     "jwt-decode": "^4.0.0",
     "moment": "^2.30.1",
     "react": "^18.3.1",
@@ -43,6 +45,8 @@
     "yup": "^1.4.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
