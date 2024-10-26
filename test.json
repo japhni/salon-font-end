@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "spendingDate": 1728604800000,
+        "unitPrice": 100.0,
+        "quantityPurchased": 1.0,
+        "amountPaid": 0.0,
+        "details": "tr",
+        "itemPurchased": {
+            "id": 2,
+            "name": "Amavuta yo mumaso",
+            "details": null
+        },
+        "itemPurchasedId": 2,
+        "user": {
+            "id": 1,
+            "password": "$2a$10$0.DoAZQgwlV./.ErDNPOxulKsVT1jIg8YEa5f/b1eKKanWgord.fG",
+            "firstName": "Japhet",
+            "lastName": "Niyonzima",
+            "otherNames": "Jaja",
+            "birthday": [
+                2024,
+                10,
+                2
+            ],
+            "phoneNumber": "71446382",
+            "email": "japhni81@gmail.com",
+            "firstAddress": "Gitega",
+            "secondAdress": "Shatanya 1",
+            "details": "Description n'est pas requis pour mois",
+            "authorized": false,
+            "accountNotExpired": false,
+            "enabled": false,
+            "accountNotLocked": false,
+            "oneTimePassword": null,
+            "otpRequestedTime": null,
+            "lockTime": null,
+            "resetPasswordToken": null,
+            "passwordChangeTime": null,
+            "createdAt": 1723401058023,
+            "updatedAt": 1725747657107,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "ROLE_USER",
+                    "roleLevel": 0
+                },
+                {
+                    "id": 2,
+                    "name": "ROLE_ADMIN",
+                    "roleLevel": 1
+                }
+            ]
+        },
+        "user_id": 1
+    },
+    {
+        "id": 2,
+        "spendingDate": 1728604800000,
+        "unitPrice": 1500.0,
+        "quantityPurchased": 2.0,
+        "amountPaid": 0.0,
+        "details": "test",
+        "itemPurchased": {
+            "id": 1,
+            "name": "Tige coton",
+            "details": null
+        },
+        "itemPurchasedId": 1,
+        "user": {
+            "id": 1,
+            "password": "$2a$10$0.DoAZQgwlV./.ErDNPOxulKsVT1jIg8YEa5f/b1eKKanWgord.fG",
+            "firstName": "Japhet",
+            "lastName": "Niyonzima",
+            "otherNames": "Jaja",
+            "birthday": [
+                2024,
+                10,
+                2
+            ],
+            "phoneNumber": "71446382",
+            "email": "japhni81@gmail.com",
+            "firstAddress": "Gitega",
+            "secondAdress": "Shatanya 1",
+            "details": "Description n'est pas requis pour mois",
+            "authorized": false,
+            "accountNotExpired": false,
+            "enabled": false,
+            "accountNotLocked": false,
+            "oneTimePassword": null,
+            "otpRequestedTime": null,
+            "lockTime": null,
+            "resetPasswordToken": null,
+            "passwordChangeTime": null,
+            "createdAt": 1723401058023,
+            "updatedAt": 1725747657107,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "ROLE_USER",
+                    "roleLevel": 0
+                },
+                {
+                    "id": 2,
+                    "name": "ROLE_ADMIN",
+                    "roleLevel": 1
+                }
+            ]
+        },
+        "user_id": 1
+    },
+    {
+        "id": 3,
+        "spendingDate": 1729123200000,
+        "unitPrice": 10000.0,
+        "quantityPurchased": 2.0,
+        "amountPaid": 0.0,
+        "details": "Test test",
+        "itemPurchased": {
+            "id": 2,
+            "name": "Amavuta yo mumaso",
+            "details": null
+        },
+        "itemPurchasedId": 2,
+        "user": {
+            "id": 1,
+            "password": "$2a$10$0.DoAZQgwlV./.ErDNPOxulKsVT1jIg8YEa5f/b1eKKanWgord.fG",
+            "firstName": "Japhet",
+            "lastName": "Niyonzima",
+            "otherNames": "Jaja",
+            "birthday": [
+                2024,
+                10,
+                2
+            ],
+            "phoneNumber": "71446382",
+            "email": "japhni81@gmail.com",
+            "firstAddress": "Gitega",
+            "secondAdress": "Shatanya 1",
+            "details": "Description n'est pas requis pour mois",
+            "authorized": false,
+            "accountNotExpired": false,
+            "enabled": false,
+            "accountNotLocked": false,
+            "oneTimePassword": null,
+            "otpRequestedTime": null,
+            "lockTime": null,
+            "resetPasswordToken": null,
+            "passwordChangeTime": null,
+            "createdAt": 1723401058023,
+            "updatedAt": 1725747657107,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "ROLE_USER",
+                    "roleLevel": 0
+                },
+                {
+                    "id": 2,
+                    "name": "ROLE_ADMIN",
+                    "roleLevel": 1
+                }
+            ]
+        },
+        "user_id": 1
+    }
+]

@@ -1,0 +1,6 @@
+ttp://localhost:3000
+token	eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYXBobmk4MUBnbWFpbC5jb20iLCJyb2xlcyI6WyJST0xFX1VTRVIiLCJST0xFX0FETUlOIl0sInVzZXJJZCI6MSwiaWF0IjoxNzI4ODk0MDIzLCJleHAiOjE3Mjg4OTc2MjN9.hSHB-rQWLPtyabY_I7m8XC2CKXZgbpAymZjX0CWQKpw	
+userId	1	
+username	japhni81@gmail.com	
+userRole	ROLE_USER,ROLE_ADMIN	
+expSession	1728897623	
