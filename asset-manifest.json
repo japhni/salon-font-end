@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salon-font-end/static/css/main.b94c40c5.css",
+    "main.js": "/salon-font-end/static/js/main.cd0823bc.js",
+    "index.html": "/salon-font-end/index.html",
+    "main.b94c40c5.css.map": "/salon-font-end/static/css/main.b94c40c5.css.map",
+    "main.cd0823bc.js.map": "/salon-font-end/static/js/main.cd0823bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94c40c5.css",
+    "static/js/main.cd0823bc.js"
+  ]
+}
